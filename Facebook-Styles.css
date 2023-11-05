@@ -1,0 +1,28 @@
+body{
+  background-image: url('Sample1.jpeg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+.div1{
+  background: linear-gradient(to left, lightgray, gray);
+  height: 200px;
+  widht: 200px;
+  border-radius: 20px;
+  box-shadow: 10px 5px black;
+  position: relative;
+  top: 50%%;
+  left: 50%;
+}
+.button1{
+  position: relative;
+  top: 70px;
+  width: 100px;
+  height: 30px;
+  border: none;
+  background-color: lawngreen;
+  box-shadow: 5px 5px gray;
+}
+.h11{
+  position: relative;
+  top: 50px;
+}
